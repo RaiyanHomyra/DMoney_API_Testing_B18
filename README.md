@@ -28,6 +28,3 @@ This project is a Postman-based API testing collection for the DMoney applicatio
 <img width="946" height="910" alt="image" src="https://github.com/user-attachments/assets/5e3bd389-2aad-43f1-8048-6c66721f51fb" />
 
 
-## Newman Report:
-![Newman Report](report.png)
-```
